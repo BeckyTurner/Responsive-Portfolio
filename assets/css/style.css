@@ -214,12 +214,12 @@ input[type=submit] {
     }
 
     nav a {
-        margin-right:5%;
+        margin-right:5px;
         font-size:80%;
     }
 
     .container {
-        width:60;
+        width:60%;
         margin-left:50px;
     }
     .work {
@@ -230,6 +230,7 @@ input[type=submit] {
 
     h1 {
         margin-left:20px;
+        margin-right:5%;
     }
 }
 
@@ -241,11 +242,10 @@ input[type=submit] {
 
     .container {
         width:100%;
-        margin-left:5%;
+        margin-left:3%;
     }
-
-    #logo {
-        margin-left:0;
+    h1 {
+        margin-right:50px;
     }
 
 }
